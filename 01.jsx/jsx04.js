@@ -1,7 +1,7 @@
 const root = ReactDOM.createRoot(document.querySelector('#root'));
 
 function callDogName(){
-  return "Bob";
+  return "Doggy";
 }
 
 const dogColor = "red";
